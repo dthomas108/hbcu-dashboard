@@ -50,7 +50,7 @@ export async function GET() {
     url.searchParams.set("per_page", String(perPage));
     url.searchParams.set("page", String(page));
 
-    // Filter to HBCUs (flag exists in the data dictionary you uploaded)
+    // Filter to HBCUs (flag exists in uploaded data dictionary)
     url.searchParams.set("school.minority_serving.historically_black", "1");
 
     const res = await fetch(url.toString(), { headers: { "Content-Type": "application/json" } });
@@ -77,18 +77,18 @@ export async function GET() {
     }
 
     // Stop condition:
-    // If total is present, we can stop once we collected enough. The API returns metadata including total/page/per_page. [2](https://lehd.ces.census.gov/data/pseo_documentation.html)
+    // total present? stop once collected enough. API returns metadata including total/page/per_page. [2](https://lehd.ces.census.gov/data/pseo_documentation.html)
     const meta = data?.metadata;
     const total = meta?.total;
     if (typeof total === "number" && all.length >= total) break;
 
-    // Otherwise, stop when the last page is shorter than perPage
+    // Otherwise, stop when last page is shorter than perPage
     if (results.length < perPage) break;
 
     page += 1;
   }
 
-  // Sort alphabetically for a nice dropdown
+  // Sort alphabetically for dropdown
   all.sort((a, b) => a.name.localeCompare(b.name));
 
   return NextResponse.json({ results: all });
