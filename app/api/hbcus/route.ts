@@ -24,8 +24,8 @@ type ApiResult = {
 };
 
 export async function GET() {
-  const apiKey = process.env.COLLEGE_SCORECARD_API_KEY;
-  if (!apiKey) {
+  const API_KEY = process.env.COLLEGE_SCORECARD_API_KEY;
+  if (!API_KEY) {
     return NextResponse.json({ error: "Missing COLLEGE_SCORECARD_API_KEY" }, { status: 500 });
   }
 
@@ -45,7 +45,7 @@ export async function GET() {
 
   while (true) {
     const url = new URL(BASE_URL);
-    url.searchParams.set("api_key", apiKey);
+    url.searchParams.set("api_key", API_KEY);
     url.searchParams.set("fields", fields);
     url.searchParams.set("per_page", String(perPage));
     url.searchParams.set("page", String(page));

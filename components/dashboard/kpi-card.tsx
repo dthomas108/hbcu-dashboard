@@ -10,7 +10,12 @@ export function KpiCard({
   subtitle?: string;
 }) {
   return (
-    <Card>
+    <Card className="
+  transition-all duration-300
+  hover:-translate-y-1
+  hover:shadow-xl
+  hover:shadow-primary/10"
+>
       <CardHeader className="pb-2">
         <CardTitle className="text-sm font-medium text-muted-foreground">
           {title}
