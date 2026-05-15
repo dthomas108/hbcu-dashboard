@@ -8,8 +8,6 @@ import {
 } from "@/components/ui/chart";
 import type { ScorecardSchool } from "@/lib/scorecard/types";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-// WHERE IS THE COLOR!? //
-
 
 export function ProgramMixBar({ school }: { school?: ScorecardSchool }) {
   const p = school?.latest?.academics?.program_percentage;
@@ -24,13 +22,10 @@ export function ProgramMixBar({ school }: { school?: ScorecardSchool }) {
   ].sort((a, b) => b.value - a.value);
 
   const config = {
-    
-          "Business": { label: "Business", color: "var(--chart-1)" },
-    Health: { label: "Health", color: "var(--chart-2)" },
-    Computer: { label: "Computer", color: "var(--chart-3)" },
-    Engineering: { label: "Engineering", color: "var(--chart-4)" },
-    Education: { label: "Education", color: "var(--chart-5)" },
-    Biological: { label: "Biological", color: "var(--muted)" },
+    value: {
+      label: "Share of awards",
+      color: "var(--chart-2)", // ✅ FIXED
+    },
   } as const;
 
   return (
@@ -42,28 +37,34 @@ export function ProgramMixBar({ school }: { school?: ScorecardSchool }) {
       </CardHeader>
 
       <CardContent>
-        <ChartContainer config={config} className="h-[300px]">
-          <BarChart data={rows} layout="vertical" margin={{ left: 24 }}>
+        <ChartContainer config={config} className="h-[350px] w-[450px]">
+          <BarChart
+            data={rows}
+            layout="vertical"
+            margin={{ top: 8, right: 120, bottom: 8, left: -16 }}
+          >
             <CartesianGrid horizontal={false} />
+
             <YAxis
               dataKey="name"
               type="category"
+              width={110}
               tickLine={false}
               axisLine={false}
-              width={90}
             />
+
             <XAxis
               type="number"
               tickFormatter={(v) => `${Math.round(v * 100)}%`}
             />
             <ChartTooltip content={<ChartTooltipContent />} />
-            <Bar dataKey="value" radius={3} />
+            <Bar dataKey="value" radius={6} />
           </BarChart>
         </ChartContainer>
 
         <p className="mt-3 text-xs text-muted-foreground">
           * Initial version uses Scorecard “program_percentage” (2‑digit CIP
-          groups). Replace with “Top 10 degrees awarded” later.
+          groups).
         </p>
       </CardContent>
     </Card>

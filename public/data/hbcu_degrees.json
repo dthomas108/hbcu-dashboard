@@ -1,0 +1,2527 @@
+{
+  "Alabama A & M University": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 117
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 82
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 78
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 72
+      },
+      {
+        "cip": "1101",
+        "name": "Computer and Information Sciences, General.",
+        "awards": 67
+      }
+    ],
+    "year": 2025
+  },
+  "Alabama State University": {
+    "degrees": [
+      {
+        "cip": "3099",
+        "name": "Multi/Interdisciplinary Studies, Other.",
+        "awards": 87
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 83
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 55
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 51
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 49
+      }
+    ],
+    "year": 2025
+  },
+  "Albany State University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 198
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 173
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 109
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 108
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 92
+      }
+    ],
+    "year": 2025
+  },
+  "Alcorn State University": {
+    "degrees": [
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 112
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 90
+      },
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 75
+      },
+      {
+        "cip": "101",
+        "name": "Agricultural Business and Management.",
+        "awards": 54
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 50
+      }
+    ],
+    "year": 2025
+  },
+  "Allen University": {
+    "degrees": [
+      {
+        "cip": "5210",
+        "name": "Human Resources Management and Services.",
+        "awards": 32
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 26
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 24
+      },
+      {
+        "cip": "4501",
+        "name": "Social Sciences, General.",
+        "awards": 18
+      },
+      {
+        "cip": "2701",
+        "name": "Mathematics.",
+        "awards": 12
+      }
+    ],
+    "year": 2025
+  },
+  "American Baptist College": {
+    "degrees": [
+      {
+        "cip": "5107",
+        "name": "Health and Medical Administrative Services.",
+        "awards": 45
+      },
+      {
+        "cip": "4400",
+        "name": "Human Services, General.",
+        "awards": 2
+      },
+      {
+        "cip": "5207",
+        "name": "Entrepreneurial and Small Business Operations.",
+        "awards": 1
+      }
+    ],
+    "year": 2025
+  },
+  "Arkansas Baptist College": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 397
+      },
+      {
+        "cip": "4400",
+        "name": "Human Services, General.",
+        "awards": 9
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 8
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 6
+      },
+      {
+        "cip": "4404",
+        "name": "Public Administration.",
+        "awards": 4
+      }
+    ],
+    "year": 2025
+  },
+  "Benedict College": {
+    "degrees": [
+      {
+        "cip": "3906",
+        "name": "Theological and Ministerial Studies.",
+        "awards": 99
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 70
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 64
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 46
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 42
+      }
+    ],
+    "year": 2025
+  },
+  "Bennett College": {
+    "degrees": [
+      {
+        "cip": "5001",
+        "name": "Visual and Performing Arts, General.",
+        "awards": 63
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 18
+      },
+      {
+        "cip": "904",
+        "name": "Journalism.",
+        "awards": 12
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 11
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 9
+      }
+    ],
+    "year": 2025
+  },
+  "Bethune-Cookman University": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 104
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 96
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 81
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 76
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 71
+      }
+    ],
+    "year": 2025
+  },
+  "Bluefield State University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 72
+      },
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 42
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 33
+      },
+      {
+        "cip": "5109",
+        "name": "Allied Health Diagnostic, Intervention, and Treatment Professions.",
+        "awards": 21
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 18
+      }
+    ],
+    "year": 2025
+  },
+  "Bowie State University": {
+    "degrees": [
+      {
+        "cip": "1002",
+        "name": "Audiovisual Communications Technologies/Technicians.",
+        "awards": 197
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 185
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 177
+      },
+      {
+        "cip": "1199",
+        "name": "Computer and Information Sciences and Support Services, Other.",
+        "awards": 149
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 137
+      }
+    ],
+    "year": 2025
+  },
+  "Central State University": {
+    "degrees": [
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 457
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 400
+      },
+      {
+        "cip": "1301",
+        "name": "Education, General.",
+        "awards": 173
+      },
+      {
+        "cip": "3000",
+        "name": "Multi-/Interdisciplinary Studies, General.",
+        "awards": 72
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 58
+      }
+    ],
+    "year": 2025
+  },
+  "Cheyney University of Pennsylvania": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 28
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 20
+      },
+      {
+        "cip": "5109",
+        "name": "Allied Health Diagnostic, Intervention, and Treatment Professions.",
+        "awards": 19
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 18
+      },
+      {
+        "cip": "5209",
+        "name": "Hospitality Administration/Management.",
+        "awards": 15
+      }
+    ],
+    "year": 2025
+  },
+  "Claflin University": {
+    "degrees": [
+      {
+        "cip": "4506",
+        "name": "Economics.",
+        "awards": 253
+      },
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 82
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 74
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 72
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 57
+      }
+    ],
+    "year": 2025
+  },
+  "Clark Atlanta University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 180
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 129
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 94
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 75
+      },
+      {
+        "cip": "5004",
+        "name": "Design and Applied Arts.",
+        "awards": 62
+      }
+    ],
+    "year": 2025
+  },
+  "Clinton College": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 12
+      },
+      {
+        "cip": "3802",
+        "name": "Religion/Religious Studies.",
+        "awards": 6
+      }
+    ],
+    "year": 2025
+  },
+  "Delaware State University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 234
+      },
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 131
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 106
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 104
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 93
+      }
+    ],
+    "year": 2025
+  },
+  "Dillard University": {
+    "degrees": [
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 55
+      },
+      {
+        "cip": "5122",
+        "name": "Public Health.",
+        "awards": 35
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 34
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 34
+      },
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 28
+      }
+    ],
+    "year": 2025
+  },
+  "Edward Waters University": {
+    "degrees": [
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 47
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 29
+      },
+      {
+        "cip": "3906",
+        "name": "Theological and Ministerial Studies.",
+        "awards": 27
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 24
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 22
+      }
+    ],
+    "year": 2025
+  },
+  "Elizabeth City State University": {
+    "degrees": [
+      {
+        "cip": "3017",
+        "name": "Behavioral Sciences.",
+        "awards": 114
+      },
+      {
+        "cip": "3000",
+        "name": "Multi-/Interdisciplinary Studies, General.",
+        "awards": 81
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 79
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 60
+      },
+      {
+        "cip": "4901",
+        "name": "Air Transportation.",
+        "awards": 55
+      }
+    ],
+    "year": 2025
+  },
+  "Fayetteville State University": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 320
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 261
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 177
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 129
+      },
+      {
+        "cip": "5203",
+        "name": "Accounting and Related Services.",
+        "awards": 122
+      }
+    ],
+    "year": 2025
+  },
+  "Fisk University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 305
+      },
+      {
+        "cip": "5201",
+        "name": "Business/Commerce, General.",
+        "awards": 44
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 41
+      },
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 22
+      },
+      {
+        "cip": "2602",
+        "name": "Biochemistry, Biophysics and Molecular Biology.",
+        "awards": 20
+      }
+    ],
+    "year": 2025
+  },
+  "Florida Agricultural and Mechanical University": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 880
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 260
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 226
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 220
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 202
+      }
+    ],
+    "year": 2025
+  },
+  "Florida Memorial University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 130
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 47
+      },
+      {
+        "cip": "2202",
+        "name": "Legal Research and Advanced Professional Studies.",
+        "awards": 32
+      },
+      {
+        "cip": "4901",
+        "name": "Air Transportation.",
+        "awards": 31
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 29
+      }
+    ],
+    "year": 2025
+  },
+  "Fort Valley State University": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 146
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 76
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 75
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 65
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 43
+      }
+    ],
+    "year": 2025
+  },
+  "Grambling State University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 8476
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 156
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 96
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 78
+      },
+      {
+        "cip": "1313",
+        "name": "Teacher Education and Professional Development, Specific Subject Areas.",
+        "awards": 65
+      }
+    ],
+    "year": 2025
+  },
+  "Hampton University": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 115
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 109
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 95
+      },
+      {
+        "cip": "904",
+        "name": "Journalism.",
+        "awards": 87
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 70
+      }
+    ],
+    "year": 2025
+  },
+  "Harris-Stowe State University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 86
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 63
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 60
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 42
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 29
+      }
+    ],
+    "year": 2025
+  },
+  "Howard University": {
+    "degrees": [
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 269
+      },
+      {
+        "cip": "999",
+        "name": "Communication, Journalism, and Related Programs, Other.",
+        "awards": 237
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 218
+      },
+      {
+        "cip": "909",
+        "name": "Public Relations, Advertising, and Applied Communication.",
+        "awards": 176
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 128
+      }
+    ],
+    "year": 2025
+  },
+  "Huston-Tillotson University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 280
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 67
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 46
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 31
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 22
+      }
+    ],
+    "year": 2025
+  },
+  "Jackson State University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 535
+      },
+      {
+        "cip": "3099",
+        "name": "Multi/Interdisciplinary Studies, Other.",
+        "awards": 152
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 148
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 137
+      },
+      {
+        "cip": "1399",
+        "name": "Education, Other.",
+        "awards": 122
+      }
+    ],
+    "year": 2025
+  },
+  "Jarvis Christian University": {
+    "degrees": [
+      {
+        "cip": "3802",
+        "name": "Religion/Religious Studies.",
+        "awards": 63
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 49
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 42
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 26
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 15
+      }
+    ],
+    "year": 2025
+  },
+  "Johnson C Smith University": {
+    "degrees": [
+      {
+        "cip": "3902",
+        "name": "Bible/Biblical Studies.",
+        "awards": 290
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 51
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 36
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 34
+      },
+      {
+        "cip": "4504",
+        "name": "Criminology.",
+        "awards": 33
+      }
+    ],
+    "year": 2025
+  },
+  "Kentucky State University": {
+    "degrees": [
+      {
+        "cip": "5201",
+        "name": "Business/Commerce, General.",
+        "awards": 43
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 32
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 31
+      },
+      {
+        "cip": "904",
+        "name": "Journalism.",
+        "awards": 23
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 23
+      }
+    ],
+    "year": 2025
+  },
+  "Lane College": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 87
+      },
+      {
+        "cip": "1313",
+        "name": "Teacher Education and Professional Development, Specific Subject Areas.",
+        "awards": 32
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 31
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 28
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 28
+      }
+    ],
+    "year": 2025
+  },
+  "Langston University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 57
+      },
+      {
+        "cip": "1313",
+        "name": "Teacher Education and Professional Development, Specific Subject Areas.",
+        "awards": 50
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 46
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 41
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 23
+      }
+    ],
+    "year": 2025
+  },
+  "Le Moyne-Owen College": {
+    "degrees": [
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 164
+      },
+      {
+        "cip": "3000",
+        "name": "Multi-/Interdisciplinary Studies, General.",
+        "awards": 46
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 45
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 27
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 16
+      }
+    ],
+    "year": 2025
+  },
+  "Lincoln University": {
+    "degrees": [
+      {
+        "cip": "5201",
+        "name": "Business/Commerce, General.",
+        "awards": 374
+      },
+      {
+        "cip": "5100",
+        "name": "Health Services/Allied Health/Health Sciences, General.",
+        "awards": 96
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 84
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 68
+      },
+      {
+        "cip": "907",
+        "name": "Radio, Television, and Digital Communication.",
+        "awards": 62
+      }
+    ],
+    "year": 2025
+  },
+  "Livingstone College": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 95
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 38
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 28
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 24
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 24
+      }
+    ],
+    "year": 2025
+  },
+  "Miles College": {
+    "degrees": [
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 54
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 36
+      },
+      {
+        "cip": "999",
+        "name": "Communication, Journalism, and Related Programs, Other.",
+        "awards": 28
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 27
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 20
+      }
+    ],
+    "year": 2025
+  },
+  "Mississippi Valley State University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 150
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 60
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 50
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 43
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 43
+      }
+    ],
+    "year": 2025
+  },
+  "Morehouse College": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 84
+      },
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 61
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 61
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 49
+      },
+      {
+        "cip": "5006",
+        "name": "Film/Video and Photographic Arts.",
+        "awards": 47
+      }
+    ],
+    "year": 2025
+  },
+  "Morgan State University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 156
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 123
+      },
+      {
+        "cip": "1410",
+        "name": "Electrical, Electronics, and Communications Engineering.",
+        "awards": 119
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 114
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 109
+      }
+    ],
+    "year": 2025
+  },
+  "Morris Brown College": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 60
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 6
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 5
+      },
+      {
+        "cip": "5009",
+        "name": "Music.",
+        "awards": 2
+      }
+    ],
+    "year": 2025
+  },
+  "Morris College": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 103
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 32
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 11
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 10
+      },
+      {
+        "cip": "5115",
+        "name": "Mental and Social Health Services and Allied Professions.",
+        "awards": 8
+      }
+    ],
+    "year": 2025
+  },
+  "Norfolk State University": {
+    "degrees": [
+      {
+        "cip": "5201",
+        "name": "Business/Commerce, General.",
+        "awards": 155
+      },
+      {
+        "cip": "3099",
+        "name": "Multi/Interdisciplinary Studies, Other.",
+        "awards": 118
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 117
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 113
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 111
+      }
+    ],
+    "year": 2025
+  },
+  "North Carolina A & T State University": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 320
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 260
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 245
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 239
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 236
+      }
+    ],
+    "year": 2025
+  },
+  "North Carolina Central University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 1759
+      },
+      {
+        "cip": "4501",
+        "name": "Social Sciences, General.",
+        "awards": 222
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 208
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 183
+      },
+      {
+        "cip": "1901",
+        "name": "Family and Consumer Sciences/Human Sciences, General.",
+        "awards": 124
+      }
+    ],
+    "year": 2025
+  },
+  "Oakwood University": {
+    "degrees": [
+      {
+        "cip": "5009",
+        "name": "Music.",
+        "awards": 276
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 57
+      },
+      {
+        "cip": "3906",
+        "name": "Theological and Ministerial Studies.",
+        "awards": 24
+      },
+      {
+        "cip": "5139",
+        "name": "Practical Nursing, Vocational Nursing and Nursing Assistants.",
+        "awards": 22
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 20
+      }
+    ],
+    "year": 2025
+  },
+  "Paine College": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 134
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 10
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 8
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 7
+      },
+      {
+        "cip": "5401",
+        "name": "History.",
+        "awards": 6
+      }
+    ],
+    "year": 2025
+  },
+  "Paul Quinn College": {
+    "degrees": [
+      {
+        "cip": "302",
+        "name": "Environmental/Natural Resources Management and Policy.",
+        "awards": 38
+      },
+      {
+        "cip": "5100",
+        "name": "Health Services/Allied Health/Health Sciences, General.",
+        "awards": 29
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 25
+      },
+      {
+        "cip": "5207",
+        "name": "Entrepreneurial and Small Business Operations.",
+        "awards": 16
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 15
+      }
+    ],
+    "year": 2025
+  },
+  "Philander Smith University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 132
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 38
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 37
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 31
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 23
+      }
+    ],
+    "year": 2025
+  },
+  "Prairie View A & M University": {
+    "degrees": [
+      {
+        "cip": "5004",
+        "name": "Design and Applied Arts.",
+        "awards": 642
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 233
+      },
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 226
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 215
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 205
+      }
+    ],
+    "year": 2025
+  },
+  "Rust College": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 615
+      },
+      {
+        "cip": "904",
+        "name": "Journalism.",
+        "awards": 44
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 28
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 20
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 14
+      }
+    ],
+    "year": 2025
+  },
+  "Saint Augustine's University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 27
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 25
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 16
+      },
+      {
+        "cip": "3801",
+        "name": "Philosophy.",
+        "awards": 15
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 11
+      }
+    ],
+    "year": 2025
+  },
+  "Savannah State University": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 100
+      },
+      {
+        "cip": "904",
+        "name": "Journalism.",
+        "awards": 63
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 63
+      },
+      {
+        "cip": "3000",
+        "name": "Multi-/Interdisciplinary Studies, General.",
+        "awards": 43
+      },
+      {
+        "cip": "1512",
+        "name": "Computer Engineering Technologies/Technicians.",
+        "awards": 40
+      }
+    ],
+    "year": 2025
+  },
+  "Selma University": {
+    "degrees": [
+      {
+        "cip": "5100",
+        "name": "Health Services/Allied Health/Health Sciences, General.",
+        "awards": 272
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 3
+      }
+    ],
+    "year": 2025
+  },
+  "Shaw University": {
+    "degrees": [
+      {
+        "cip": "5107",
+        "name": "Health and Medical Administrative Services.",
+        "awards": 119
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 36
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 36
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 34
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 29
+      }
+    ],
+    "year": 2025
+  },
+  "Shorter University": {
+    "degrees": [
+      {
+        "cip": "5214",
+        "name": "Marketing.",
+        "awards": 166
+      },
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 47
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 42
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 39
+      },
+      {
+        "cip": "3000",
+        "name": "Multi-/Interdisciplinary Studies, General.",
+        "awards": 38
+      }
+    ],
+    "year": 2025
+  },
+  "Simmons College of Kentucky": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 307
+      },
+      {
+        "cip": "5009",
+        "name": "Music.",
+        "awards": 5
+      },
+      {
+        "cip": "5207",
+        "name": "Entrepreneurial and Small Business Operations.",
+        "awards": 4
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 4
+      },
+      {
+        "cip": "3902",
+        "name": "Bible/Biblical Studies.",
+        "awards": 3
+      }
+    ],
+    "year": 2025
+  },
+  "South Carolina State University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 512
+      },
+      {
+        "cip": "1901",
+        "name": "Family and Consumer Sciences/Human Sciences, General.",
+        "awards": 59
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 44
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 43
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 31
+      }
+    ],
+    "year": 2025
+  },
+  "Southern University and A & M College": {
+    "degrees": [
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 148
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 76
+      },
+      {
+        "cip": "5123",
+        "name": "Rehabilitation and Therapeutic Professions.",
+        "awards": 75
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 75
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 67
+      }
+    ],
+    "year": 2025
+  },
+  "Southern University at New Orleans": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 67
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 61
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 50
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 50
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 35
+      }
+    ],
+    "year": 2025
+  },
+  "Southern University Law Center": {
+    "degrees": [
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 264
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 28
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 14
+      },
+      {
+        "cip": "5123",
+        "name": "Rehabilitation and Therapeutic Professions.",
+        "awards": 13
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 11
+      }
+    ],
+    "year": 2025
+  },
+  "Spelman College": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 103
+      },
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 103
+      },
+      {
+        "cip": "5100",
+        "name": "Health Services/Allied Health/Health Sciences, General.",
+        "awards": 83
+      },
+      {
+        "cip": "4506",
+        "name": "Economics.",
+        "awards": 76
+      },
+      {
+        "cip": "2301",
+        "name": "English Language and Literature, General.",
+        "awards": 60
+      }
+    ],
+    "year": 2025
+  },
+  "Stillman College": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 740
+      },
+      {
+        "cip": "1313",
+        "name": "Teacher Education and Professional Development, Specific Subject Areas.",
+        "awards": 29
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 23
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 23
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 16
+      }
+    ],
+    "year": 2025
+  },
+  "Talladega College": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 56
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 51
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 26
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 21
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 21
+      }
+    ],
+    "year": 2025
+  },
+  "Tennessee State University": {
+    "degrees": [
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 396
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 107
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 95
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 94
+      },
+      {
+        "cip": "5199",
+        "name": "Health Professions and Related Clinical Sciences, Other.",
+        "awards": 89
+      }
+    ],
+    "year": 2025
+  },
+  "Texas College": {
+    "degrees": [
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 36
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 34
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 30
+      },
+      {
+        "cip": "5133",
+        "name": "Alternative and Complementary Medicine and Medical Systems.",
+        "awards": 22
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 16
+      }
+    ],
+    "year": 2025
+  },
+  "Texas Southern University": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 1031
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 143
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 136
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 130
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 114
+      }
+    ],
+    "year": 2025
+  },
+  "Tougaloo College": {
+    "degrees": [
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 575
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 31
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 21
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 19
+      },
+      {
+        "cip": "4506",
+        "name": "Economics.",
+        "awards": 17
+      }
+    ],
+    "year": 2025
+  },
+  "Tuskegee University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 102
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 80
+      },
+      {
+        "cip": "1419",
+        "name": "Mechanical Engineering.",
+        "awards": 65
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 54
+      },
+      {
+        "cip": "5100",
+        "name": "Health Services/Allied Health/Health Sciences, General.",
+        "awards": 43
+      }
+    ],
+    "year": 2025
+  },
+  "University of Arkansas at Pine Bluff": {
+    "degrees": [
+      {
+        "cip": "5110",
+        "name": "Clinical/Medical Laboratory Science/Research and Allied Professions.",
+        "awards": 461
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 70
+      },
+      {
+        "cip": "1313",
+        "name": "Teacher Education and Professional Development, Specific Subject Areas.",
+        "awards": 64
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 58
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 57
+      }
+    ],
+    "year": 2025
+  },
+  "University of Maryland Eastern Shore": {
+    "degrees": [
+      {
+        "cip": "1104",
+        "name": "Information Science/Studies.",
+        "awards": 3941
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 60
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 44
+      },
+      {
+        "cip": "5209",
+        "name": "Hospitality Administration/Management.",
+        "awards": 43
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 43
+      }
+    ],
+    "year": 2025
+  },
+  "University of the District of Columbia": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 323
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 51
+      },
+      {
+        "cip": "1107",
+        "name": "Computer Science.",
+        "awards": 50
+      },
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 49
+      },
+      {
+        "cip": "1907",
+        "name": "Human Development, Family Studies, and Related Services.",
+        "awards": 36
+      }
+    ],
+    "year": 2025
+  },
+  "University of the Virgin Islands": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 58
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 38
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 29
+      },
+      {
+        "cip": "5203",
+        "name": "Accounting and Related Services.",
+        "awards": 29
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 24
+      }
+    ],
+    "year": 2025
+  },
+  "Virginia State University": {
+    "degrees": [
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 140
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 103
+      },
+      {
+        "cip": "1313",
+        "name": "Teacher Education and Professional Development, Specific Subject Areas.",
+        "awards": 95
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 89
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 55
+      }
+    ],
+    "year": 2025
+  },
+  "Virginia Union University": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 30
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 24
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 24
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 24
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 23
+      }
+    ],
+    "year": 2025
+  },
+  "Virginia University of Lynchburg": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 80
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 4
+      },
+      {
+        "cip": "3802",
+        "name": "Religion/Religious Studies.",
+        "awards": 3
+      }
+    ],
+    "year": 2025
+  },
+  "Voorhees University": {
+    "degrees": [
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 41
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 21
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 19
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 19
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 17
+      }
+    ],
+    "year": 2025
+  },
+  "West Virginia State University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 409
+      },
+      {
+        "cip": "2401",
+        "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+        "awards": 87
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 61
+      },
+      {
+        "cip": "1312",
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+        "awards": 60
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 46
+      }
+    ],
+    "year": 2025
+  },
+  "Wilberforce University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 69
+      },
+      {
+        "cip": "4407",
+        "name": "Social Work.",
+        "awards": 15
+      },
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 13
+      },
+      {
+        "cip": "5122",
+        "name": "Public Health.",
+        "awards": 12
+      },
+      {
+        "cip": "901",
+        "name": "Communication and Media Studies.",
+        "awards": 11
+      }
+    ],
+    "year": 2025
+  },
+  "Wiley University": {
+    "degrees": [
+      {
+        "cip": "5138",
+        "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+        "awards": 272
+      },
+      {
+        "cip": "3000",
+        "name": "Multi-/Interdisciplinary Studies, General.",
+        "awards": 55
+      },
+      {
+        "cip": "4301",
+        "name": "Criminal Justice and Corrections.",
+        "awards": 36
+      },
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 16
+      },
+      {
+        "cip": "4511",
+        "name": "Sociology.",
+        "awards": 11
+      }
+    ],
+    "year": 2025
+  },
+  "Winston-Salem State University": {
+    "degrees": [
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 308
+      },
+      {
+        "cip": "5107",
+        "name": "Health and Medical Administrative Services.",
+        "awards": 163
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 155
+      },
+      {
+        "cip": "5202",
+        "name": "Business Administration, Management and Operations.",
+        "awards": 124
+      },
+      {
+        "cip": "4201",
+        "name": "Psychology, General.",
+        "awards": 118
+      }
+    ],
+    "year": 2025
+  },
+  "Xavier University": {
+    "degrees": [
+      {
+        "cip": "2601",
+        "name": "Biology, General.",
+        "awards": 267
+      },
+      {
+        "cip": "5214",
+        "name": "Marketing.",
+        "awards": 208
+      },
+      {
+        "cip": "3105",
+        "name": "Sports, Kinesiology, and Physical Education/Fitness.",
+        "awards": 152
+      },
+      {
+        "cip": "4510",
+        "name": "Political Science and Government.",
+        "awards": 117
+      },
+      {
+        "cip": "5208",
+        "name": "Finance and Financial Management Services.",
+        "awards": 114
+      }
+    ],
+    "year": 2025
+  }
+}

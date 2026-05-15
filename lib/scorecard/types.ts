@@ -1,5 +1,5 @@
 // src/lib/scorecard/types.ts
-export interface ScorecardSchool {
+export type ScorecardSchool = {
   id: number;
 
   school?: {
@@ -64,4 +64,4 @@ export interface ScorecardSchool {
       };
     };
   };
-}
+};

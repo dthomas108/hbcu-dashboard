@@ -53,9 +53,7 @@ export function RaceDonut({ school }: { school?: ScorecardSchool }) {
           className="mx-auto aspect-square max-h-[300px]"
         >
           <PieChart>
-            <ChartTooltip
-              content={<ChartTooltipContent nameKey="name" />}
-            />
+            <ChartTooltip content={<ChartTooltipContent nameKey="name" />} />
 
             <DonutSlices data={data} />
           </PieChart>
@@ -67,14 +65,7 @@ export function RaceDonut({ school }: { school?: ScorecardSchool }) {
 
 /* ✅ Isolated slice renderer */
 function DonutSlices({ data }: { data: { name: string; value: number }[] }) {
-  const config = {
-    Black: { label: "Black", color: "var(--chart-1)" },
-    White: { label: "White", color: "var(--chart-2)" },
-    Hispanic: { label: "Hispanic", color: "var(--chart-3)" },
-    Asian: { label: "Asian", color: "var(--chart-4)" },
-    "Two or More": { label: "Two or More", color: "var(--chart-5)" },
-    Other: { label: "Other", color: "var(--muted)" },
-  } as const;
+  const { getColor } = useChart();
 
   return (
     <Pie
@@ -84,13 +75,9 @@ function DonutSlices({ data }: { data: { name: string; value: number }[] }) {
       innerRadius={70}
       outerRadius={110}
       paddingAngle={2}
-      label={({ value }) => `${value.toFixed(0)}%`}
     >
       {data.map((entry) => (
-        <Cell
-          key={entry.name}
-          fill={config[entry.name as keyof typeof config]?.color || "var(--muted)"}
-        />
+        <Cell key={entry.name} fill={getColor(entry.name)} />
       ))}
     </Pie>
   );
