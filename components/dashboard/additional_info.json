@@ -1,0 +1,78 @@
+[
+"agriculture",
+"resources",
+"architecture",
+"ethnic_cultural_gender",
+"communication",
+"communications_technology",
+"computer",
+"personal_culinary",
+"education",
+"engineering",
+"engineering_technology",
+"language",
+"family_consumer_science",
+"legal",
+"english",
+"humanities",
+"library",
+"biological",
+"mathematics",
+"military",
+"multidiscipline",
+"parks_recreation_fitness",
+"philosophy_religious",
+"theology_religious_vocation",
+"physical_science",
+"science_technology",
+"psychology",
+"security_law_enforcement",
+"public_administration_social_service",
+"social_science",
+"construction",
+"mechanic_repair_technology",
+"precision_production",
+"transportation",
+"visual_performing",
+"health",
+"business_marketing",
+"history"
+]
+
+average household income
+
+average SAT score
+
+acceptance rate
+- undergrad
+- graduate
+
+demographics
+- race
+- gender
+
+most awarded degrees
+- undergrad
+- graduate
+
+average earnings after graduation
+- BA, 
+- BS, 
+- MS, 
+- PhD
+
+% change from average household income to postgraduate earnings
+
+const ProgramBar = (props: BarShapeProps) => {
+  const { x, y, width, height, index } = props;
+  const color = `var(--chart-${index + 1})` as const;
+  return <rect x={x} y={y} width={width} height={height} fill={color} rx={3} />;
+}
+
+
+https://api.data.gov/ed/collegescorecard/v1/schools?api_key=YOUR_API_KEY&fields=programs.cip_4_digit.unit_id,programs.cip_4_digit.school.name,programs.cip_4_digit.title,programs.cip_4_digit.earnings.1_yr.overall_median_earnings,programs.cip_4_digit.earnings.4_yr.overall_median_earnings,programs.cip_4_digit.earnings.5_yr.overall_median_earnings&school.minority_serving.historically_black=1&per_page=100
+
+
+https://api.data.gov/ed/collegescorecard/v1/schools?api_key=YOUR_API_KEY&fields=programs.cip_4_digit.unit_id,programs.cip_4_digit.school.name,programs.cip_4_digit.title,programs.cip_4_digit.counts.ipeds_awards1,programs.cip_4_digit.counts.ipeds_awards2&school.minority_serving.historically_black=1&per_page=100
+
+https://api.data.gov/ed/collegescorecard/v1/schools?api_key=YOUR_API_KEY&fields=programs.cip_4_digit.unit_id,programs.cip_4_digit.school.name,programs.cip_4_digit.code,programs.cip_4_digit.title,programs.cip_4_digit.earnings.1_yr.overall_median_earnings,programs.cip_4_digit.earnings.4_yr.overall_median_earnings,programs.cip_4_digit.earnings.5_yr.overall_median_earnings,programs.cip_4_digit.count&school.minority_serving.historically_black=1&per_page=100
